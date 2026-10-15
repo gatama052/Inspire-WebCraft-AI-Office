@@ -1,0 +1,6 @@
+{
+  "name": "Inspire WebCraft AI Office",
+  "description": "Interactive 3D Virtual Company & Autonomous AI Agent Workspace featuring miniature diorama office, waypoint navigation, stylized 3D agents, and task orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
